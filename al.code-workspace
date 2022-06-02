@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "app1.Test"
+                    },
+                    {
+                        "path":  "app2.Test"
                     }
                 ],
     "settings":  {
