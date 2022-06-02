@@ -8,6 +8,9 @@
                     },
                     {
                         "path":  "app2.Test"
+                    },
+                    {
+                        "path":  "app3.Test"
                     }
                 ],
     "settings":  {
