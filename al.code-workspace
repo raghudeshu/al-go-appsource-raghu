@@ -11,6 +11,9 @@
                     },
                     {
                         "path":  "app3.Test"
+                    },
+                    {
+                        "path":  "siva.Test"
                     }
                 ],
     "settings":  {
